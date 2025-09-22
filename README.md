@@ -8,29 +8,15 @@ This project leverages AWS QuickSight to analyse student enrollment and satisfac
 
 The work simulates a real-world BI consulting project, combining data modelling, dashboard development, scenario-based analysis, and data storytelling to deliver actionable recommendations.
 
-Full Project Files
+**Full Project Files**
 
 You can access the complete Business Intelligence Engineer Project – Regional Community College Student Enrollment Data in multiple formats:
 
-Full Project (Word)
- – Editable version with all screenshots, scenario notes, and data story details.
+- [Full Project (Word)]([link-to-word-file](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link))  
+- [Full Project (PDF)]([link-to-pdf-file](https://drive.google.com/file/d/1-CGBcjV4FzMYs8P8v9i_6eh6eWJlJLLv/view?usp=drive_link))
 
-Full Project (PDF)
- – Read-only version preserving layout and formatting for easy viewing.
+These files contain the full analysis, dashboards, scenario exploration, and data story with actionable recommendations.
 
-**These files include:**
-
-Dataset Field Names & Calculated Fields (e.g., Student Type)
-
-Dashboard and Analysis Visuals
-
-Q Topics and Named Entities
-
-Scenario Questions & Analytical Threads
-
-Complete Data Story with Recommendations and Conclusions
-
-Listings of All Created Resources
 
 🎯 Business Problem
 
@@ -41,6 +27,7 @@ Improving professor performance evaluations.
 Maintaining or reducing course delivery costs.
 
 This project investigates how faculty, courses, and institutional improvements influence student satisfaction and provides insights into scaling high-performing, low-cost teaching strategies.
+
 
 📂 Deliverables
 
@@ -58,6 +45,7 @@ Scenario Analysis: A multi-step reasoning path answering: “How do we improve p
 
 Data Story: A polished narrative that integrates dashboard visuals and custom text, culminating in strategic recommendations for decision-makers.
 
+
 🛠️ Skills Demonstrated
 
 Data Modelling & Transformation: Created custom calculated fields to enrich analysis (e.g., distinguishing between youth and adult continuing education students).
@@ -72,6 +60,7 @@ Dashboard Design: Balanced usability, clarity, and depth for decision-makers.
 
 Cloud BI Tooling: Hands-on application of AWS QuickSight for end-to-end BI project execution.
 
+
 📌 Key Insights & Recommendations
 
 High evaluation scores are strongly linked to specific teaching practices and course improvements (notably Accounting and Statistics in 2022).
@@ -85,6 +74,7 @@ Replicate teaching practices of consistently high-rated professors.
 Scale up courses with strong evaluations and low delivery costs.
 
 Continue monitoring course-level improvements to sustain long-term satisfaction gains.
+
 
 🏆 Final Deliverables
 
@@ -103,5 +93,6 @@ Scenarios
 Complete Data Story
 
 All elements are clearly labelled and aligned with business objectives to demonstrate professional BI engineering practices.
+
 
 ✨ This project highlights my ability to transform raw data into actionable insights and strategic business recommendations using modern BI tools.
