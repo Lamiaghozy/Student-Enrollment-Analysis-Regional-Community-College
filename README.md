@@ -8,7 +8,7 @@ This project leverages AWS QuickSight to analyse student enrollment and satisfac
 
 The work simulates a real-world BI consulting project, combining data modelling, dashboard development, scenario-based analysis, and data storytelling to deliver actionable recommendations.
 
-Full Project Access: [View Complete Project on Google Drive](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link)
+**Full Project Access**: [View Complete Project on Google Drive](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link)
 
 🎯 Business Problem
 
