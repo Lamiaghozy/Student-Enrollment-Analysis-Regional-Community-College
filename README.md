@@ -12,8 +12,9 @@ The work simulates a real-world BI consulting project, combining data modelling,
 
 You can access the complete Business Intelligence Engineer Project – Regional Community College Student Enrollment Data in multiple formats:
 
-- [Full Project (Word)]([link-to-word-file](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link))  
-- [Full Project (PDF)]([link-to-pdf-file](https://drive.google.com/file/d/1-CGBcjV4FzMYs8P8v9i_6eh6eWJlJLLv/view?usp=drive_link))
+- [Full Project (Word)] ([link-to-word-file](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link))
+  
+- [Full Project (PDF)] ([link-to-pdf-file](https://drive.google.com/file/d/1-CGBcjV4FzMYs8P8v9i_6eh6eWJlJLLv/view?usp=drive_link))
 
 These files contain the full analysis, dashboards, scenario exploration, and data story with actionable recommendations.
 
