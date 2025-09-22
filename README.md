@@ -8,7 +8,29 @@ This project leverages AWS QuickSight to analyse student enrollment and satisfac
 
 The work simulates a real-world BI consulting project, combining data modelling, dashboard development, scenario-based analysis, and data storytelling to deliver actionable recommendations.
 
-**Full Project Access**: [View Complete Project on Google Drive](https://docs.google.com/document/d/18SjNQ2d_wssHroKQVExRsthTL1oRNCYpPPjeA7VuYM0/edit?usp=drive_link)
+Full Project Files
+
+You can access the complete Business Intelligence Engineer Project – Regional Community College Student Enrollment Data in multiple formats:
+
+Full Project (Word)
+ – Editable version with all screenshots, scenario notes, and data story details.
+
+Full Project (PDF)
+ – Read-only version preserving layout and formatting for easy viewing.
+
+**These files include:**
+
+Dataset Field Names & Calculated Fields (e.g., Student Type)
+
+Dashboard and Analysis Visuals
+
+Q Topics and Named Entities
+
+Scenario Questions & Analytical Threads
+
+Complete Data Story with Recommendations and Conclusions
+
+Listings of All Created Resources
 
 🎯 Business Problem
 
