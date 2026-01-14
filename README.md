@@ -18,6 +18,15 @@ You can access the complete Business Intelligence Engineer Project – Regional 
 
 These files contain the full analysis, dashboards, scenario exploration, and data story with actionable recommendations.
 
+🧭 Decision Intelligence Context
+
+This project was designed to address a core decision failure within Career4All’s coaching operations:  
+Career coaches lacked a scalable, consistent, and objective way to assess skill gaps and prioritise training recommendations across a growing learner base.
+
+Before this system, coaching decisions relied heavily on manual review, individual judgment, and fragmented training references, resulting in variability in outcomes, lengthy turnaround times, and limited scalability.
+
+The Career4All Coaching Application reframes career coaching as a decision intelligence problem — transforming unstructured documents into actionable insights that support faster, more consistent, and auditable coaching decisions.
+
 
 🎯 Business Problem
 
@@ -27,8 +36,17 @@ Improving professor performance evaluations.
 
 Maintaining or reducing course delivery costs.
 
-This project investigates how faculty, courses, and institutional improvements influence student satisfaction and provides insights into scaling high-performing, low-cost teaching strategies.
+This project examines the impact of faculty, courses, and institutional improvements on student satisfaction, offering insights into scaling high-performing, low-cost teaching strategies.
 
+🎯 Design Principles & Trade-offs
+
+Key design decisions were made to prioritise scalability, security, and coaching consistency over bespoke, one-off analysis:
+
+• No-code architecture was selected to reduce operational dependency on engineering teams.  
+• Centralised catalogues were used to enforce training consistency across coaches.  
+• Human-in-the-loop refinement was preserved to balance automation with professional judgement.  
+
+These trade-offs ensured the system could scale organisationally without sacrificing coaching quality.
 
 📂 Deliverables
 
@@ -46,6 +64,12 @@ Scenario Analysis: A multi-step reasoning path answering: “How do we improve p
 
 Data Story: A polished narrative that integrates dashboard visuals and custom text, culminating in strategic recommendations for decision-makers.
 
+📈 Business Impact & Outcomes
+
+• Reduced manual skill-gap analysis time from hours to seconds (>90% efficiency gain).  
+• Improved consistency of training recommendations across coaches.  
+• Enabled secure scaling of coaching operations without proportional headcount growth.  
+• Ensured training recommendations remain current through automated data synchronisation.
 
 🛠️ Skills Demonstrated
 
@@ -96,4 +120,12 @@ Complete Data Story
 All elements are clearly labelled and aligned with business objectives to demonstrate professional BI engineering practices.
 
 
-✨ This project highlights my ability to transform raw data into actionable insights and strategic business recommendations using modern BI tools.
+✨ This project highlights my ability to transform raw data into actionable insights and strategic business recommendations 
+
+
+🧠 Executive Takeaways
+
+This project demonstrates how AI-powered decision intelligence can be operationalised within real-world organisational constraints — balancing automation, governance, and human expertise.
+
+The Career4All Coaching App serves as a repeatable blueprint for applying AI to professional services, workforce development, and knowledge-intensive decision processes.
+using modern BI tools.
